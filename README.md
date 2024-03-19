@@ -1,4 +1,4 @@
-## Hi, I'm [Ivy](https://IvaTutis.github.io/).
+## Hi, I'm [Ivy](https://ivatutis.github.io/).
 
 <!--[![Twitter Badge](https://img.shields.io/twitter/follow/nikiforovall?style=social)](https://twitter.com/nikiforovall)-->
 [![Iva Tutiš's GitHub](https://img.shields.io/badge/-@ivatutis-%23181717?style=flat-square&logo=github)](https://github.com/IvaTutis)
