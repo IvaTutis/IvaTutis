@@ -26,11 +26,11 @@
     <img src="https://raw.githubusercontent.com/NikiforovAll/NikiforovAll/master/images/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
 </a>-->
 
-<a href="https://ivatutis.github.io/">
+<!--<a href="https://ivatutis.github.io/">
     <img src="https://raw.githubusercontent.com/IvaTutis/IvaTutis/master/images/blogs/wordpress.svg" alt="wordpress" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<!--<a href="https://nikiforovall.github.io/feed.xml">
+<a href="https://nikiforovall.github.io/feed.xml">
     <img src="https://raw.githubusercontent.com/NikiforovAll/NikiforovAll/master/images/blogs/rss.svg" alt="rss" style="vertical-align:top; margin:6px 4px">
 </a>-->
 
