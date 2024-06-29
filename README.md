@@ -6,11 +6,9 @@
 
 ## I'm interested in
 
-- backend stuff, .NET flavour
+- backend stuff & crying over algorithms
 - Software Design & Architecture
 - fiddling w AI models
-
-## Social
 
 <a href="mailto:iva.tutis@gmail.com">
   <img src="https://raw.githubusercontent.com/IvaTutis/IvaTutis/master/images/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
