@@ -12,10 +12,6 @@
     <img src="https://raw.githubusercontent.com/IvaTutis/IvaTutis/master/images/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="https://ivatutis.github.io/">
-    <img src="https://raw.githubusercontent.com/IvaTutis/IvaTutis/master/images/streaming/twitch.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
-</a>
-
 [![Iva Tutiš's GitHub](https://img.shields.io/badge/-@ivatutis-%23181717?style=flat-square&logo=github)](https://ivatutis.github.io/)
 [![](https://vistr.dev/badge?repo=ivatutis.ivatutis&corners=square)](https://github.com/IvaTutis/vistr.dev)
 [![](https://img.shields.io/github/stars/ivatutis?style=social)](https://github.com/IvaTutis?tab=repositories)
