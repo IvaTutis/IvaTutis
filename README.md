@@ -3,6 +3,7 @@
 - backend stuff & crying over algorithms
 - Software Design & Architecture
 - fiddling w AI models
+- becoming a wizard
 
 <a href="mailto:iva.tutis@gmail.com">
   <img src="https://raw.githubusercontent.com/IvaTutis/IvaTutis/master/images/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
