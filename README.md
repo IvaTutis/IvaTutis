@@ -2,7 +2,7 @@
 
 - mostly backend stuff
 - protocols 
-- software architecture
+- architecture
 
 <a href="mailto:iva.tutis@gmail.com">
   <img src="https://raw.githubusercontent.com/IvaTutis/IvaTutis/master/images/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
