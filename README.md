@@ -19,7 +19,7 @@ const aboutMe = {
     <img src="https://raw.githubusercontent.com/IvaTutis/IvaTutis/master/images/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
 </a>
 
-### Stats
+### Stats //skewed cuz i use gitlab
 
 ![image](https://github-readme-stats.vercel.app/api?username=ivatutis&count_private=1&theme=radical)
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=ivatutis&layout=compact)
