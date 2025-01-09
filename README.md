@@ -5,7 +5,7 @@
 ```js
 const aboutMe = {
   'workingOn': 'nothing',
-  'learning': 'Blazor',
+  'learning': 'Auth',
   'contactMe': 'iva.tutis@gmail.com',
   'pronouns': ['she', 'her'],
   'interestedIn': ['protocols', 'architecture', 'clustering']
