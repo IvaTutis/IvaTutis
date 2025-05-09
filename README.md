@@ -5,16 +5,16 @@
 ```js
 const aboutMe = {
   'workingOn': 'nothing',
-  'learning': 'Auth',
+  'learning': 'Lucene',
   'contactMe': 'iva.tutis@gmail.com',
   'pronouns': ['she', 'her'],
-  'interestedIn': ['protocols', 'architecture', 'clustering']
+  'interestedIn': ['protocols', 'architecture', 'infra']
 }
 ```
 
-### Stats         *//skewed cuz i use gitlab*
+### Stats 
 
-![image](https://github-readme-stats.vercel.app/api?username=ivatutis&count_private=1&theme=radical)
+<!--![image](https://github-readme-stats.vercel.app/api?username=ivatutis&count_private=1&theme=radical)-->
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=ivatutis&layout=compact)
 
 [![Iva Tutiš's GitHub](https://img.shields.io/badge/-@ivatutis-%23181717?style=flat-square&logo=github)](https://ivatutis.github.io/)
