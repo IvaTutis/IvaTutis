@@ -8,7 +8,6 @@ const aboutMe = {
   'learning': 'Lucene',
   'projects to do': ['OS', 'Shazam'],
   'contactMe': 'don't',
-  'pronouns': ['she', 'her'],
   'interestedIn': ['backend', 'architecture', 'infra']
 }
 ```
